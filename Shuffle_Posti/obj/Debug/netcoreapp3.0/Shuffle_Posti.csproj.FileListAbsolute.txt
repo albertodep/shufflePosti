@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\obj\Debug\netcoreapp3.0\Shuffle_Posti.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\obj\Debug\netcoreapp3.0\Shuffle_Posti.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\obj\Debug\netcoreapp3.0\Shuffle_Posti.AssemblyInfo.cs
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\bin\Debug\netcoreapp3.0\Shuffle_Posti.exe
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\bin\Debug\netcoreapp3.0\Shuffle_Posti.deps.json
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\bin\Debug\netcoreapp3.0\Shuffle_Posti.runtimeconfig.json
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\bin\Debug\netcoreapp3.0\Shuffle_Posti.runtimeconfig.dev.json
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\bin\Debug\netcoreapp3.0\Shuffle_Posti.dll
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\bin\Debug\netcoreapp3.0\Shuffle_Posti.pdb
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\obj\Debug\netcoreapp3.0\Shuffle_Posti.dll
+C:\Users\user\Desktop\CORSO Angular\VISUAL_S\Shuffle_Posti\Shuffle_Posti\obj\Debug\netcoreapp3.0\Shuffle_Posti.pdb

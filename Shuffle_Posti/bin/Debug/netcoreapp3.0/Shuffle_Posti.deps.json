@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Shuffle_Posti/1.0.0": {
+        "runtime": {
+          "Shuffle_Posti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shuffle_Posti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
